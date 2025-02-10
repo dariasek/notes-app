@@ -19,3 +19,7 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.note {
+  background-color: rgba(252,249,233,255);
+}
